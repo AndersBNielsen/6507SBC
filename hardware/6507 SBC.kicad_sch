@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Single Breadboard Computer")
+    (rev "0")
+    (company "Anders B. Nielsen")
+    (comment 1 "License: https://creativecommons.org/licenses/by-nc/4.0/legalcode")
+  )
+
   (lib_symbols
     (symbol "6502:R6507" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 0 0)
